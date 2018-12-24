@@ -1,0 +1,18 @@
+                 
+                                                        PROGRAM TO SEARCH EPISODE BY ITS NAME
+___________________________________________________________________________________________________________________________________________________________________
+
+     1)Assigned the jason file inside a variable "episodeDetails".
+
+     2)Used arrow function .
+
+     3)Assigning the value of the path of "episodes" 
+       array inside a variable "episodeArray".
+
+     4)Declared a variable episodeArrayIndex for index count and a boolean variable
+       episodeFound.
+
+     5)used for-of loop to use if-else condition.
+
+     6)if the name passed as argument in the function is equal to the name of the episode 
+       present in the array then i used alert to print the episode details.

@@ -1,0 +1,18 @@
+              
+                                          PROGRAM TO FIND EPISODE DETAILS BY TAKING SEASON AND EPISODE NUMBER AS INPUT
+_____________________________________________________________________________________________________________________________________________________________________
+
+   1)Assigned the jason file inside a variable "episodeDetails"
+
+   2)Used arrow function .
+
+   3)Assigning the value of the path of "episodes" 
+     array inside a variable "episodeArray".
+
+   4)Declared a variable episodeArrayIndex for index count of the array episode ,seasonFound for boolean value
+     episodeFound for boolean value(and initially setting both the boolean variable as false)
+
+   5)used for-of loop to use if-else condition.
+
+   6)If the season number and episode number matches the episode array index then i used alert to print the 
+     episode details.

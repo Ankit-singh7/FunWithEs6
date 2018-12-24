@@ -1,0 +1,18 @@
+       
+                                          TAKING MULTIPLE EPISODE ID AS INPUT AND RETURNING THE DETAILS OF EACH EPISODES
+____________________________________________________________________________________________________________________________________________________________________
+
+  1)Assigned the jason file inside a variable "episodeDetails"
+
+  2)Used arrow function .
+
+  3)Assigning the value of the path of "episodes" 
+    array inside a variable "episodeArray".
+
+  4)Declared a variable episodeArrayIndex for index count of the array episode and idArrayIndex
+    for index count of the array pass as argument.
+
+   5)used for-of loop to use if-else condition.
+
+   6)if the id passed as argument in the function is equal to the id of the episode 
+     present in the array then i used alert to print the episode details.
